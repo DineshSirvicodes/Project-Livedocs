@@ -1,7 +1,1 @@
-{
-  "/(root)/page": "app/(root)/page.js",
-  "/(root)/documents/[id]/page": "app/(root)/documents/[id]/page.js",
-  "/(auth)/sign-in/[[...sign-in]]/page": "app/(auth)/sign-in/[[...sign-in]]/page.js",
-  "/api/liveblocks-auth/route": "app/api/liveblocks-auth/route.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js"
-}
+{}
